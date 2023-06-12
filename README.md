@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **borichahitesh92@gmail.com**
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshboricha02&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshboricha02" /> </p>
 
 
