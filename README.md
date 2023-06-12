@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=darkblue&height=160&section=header&text=Hitesh+Boricha&fontSize=35&fontColor=white&animation=twinkling&fontAlignY=35" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72F7C9&background=000000&center=true&width=435&lines=Hello+every+one+;My+Name+is+Hitesh+Boricha;I+AM+21+years+old" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72F7C9&center=true&width=435&lines=Hello+every+one+;My+Name+is+Hitesh+Boricha;I+AM+21+years+old" alt="Typing SVG" /></a>
 <!--<img src="https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966">-->
 <!--<h1 align="center">Hi 👋, I'm Hitesh Boricha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>-->
