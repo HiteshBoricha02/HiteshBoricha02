@@ -12,7 +12,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D44F7&width=435&lines=Connect+with+me%3A" alt="Typing SVG" /></a></h3>
 <p align="left">
 <a href="https://linkedin.com/in/hitesh boricha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh boricha" height="30" width="40" /></a>
 <a href="https://fb.com/hitesh boricha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitesh boricha" height="30" width="40" /></a>
