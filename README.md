@@ -43,9 +43,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshboricha02&" alt="hiteshboricha02" /></p> -->
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshBoricha02&theme=dark&hide_border=false&include_all_commits=false&count_align_right_private=false&layout=compact&align="center")
 ![](https://github-readme-stats.vercel.app/api?username=HiteshBoricha02&theme=dark&hide_border=false&include_all_commits=false&count_private=falsealign="left" )
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HiteshBoricha02&theme=dark&hide_border=false_)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshBoricha02&theme=dark&hide_border=false&include_all_commits=false&count_align_right_private=false&layout=compact&align="center")
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HiteshBoricha02&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
