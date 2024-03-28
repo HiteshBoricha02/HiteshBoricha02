@@ -22,9 +22,12 @@
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D44F7&width=435&lines=Connect+with+me%3A" alt="Typing SVG" /></a></h3>
 <p align="left">
-<a href="https://linkedin.com/in/hitesh boricha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh boricha" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/hitesh boricha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitesh boricha" height="30" width="40" /></a>
 <a href="https://fb.com/hitesh boricha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitesh boricha" height="30" width="40" /></a>
-<a href="https://instagram.com/hitesh_boricha_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitesh_boricha_02" height="30" width="40" /></a>
+<a href="https://instagram.com/hitesh_boricha_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hitesh_boricha_02" height="30" width="40" /></a> -->
+
+ ## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezSnippet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hiteshboricha)
 </p>
 
 <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2D44F7&width=435&lines=Technologies+I+have+learned" alt="Typing SVG" /></a></h3>
